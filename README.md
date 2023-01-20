@@ -33,3 +33,6 @@ After handshake is obtained, all 3 scripts can be closed.
 Make sure to install all required drivers for the adapter before attempting this.
 
 Remember to change the adapter name.
+
+# Warning
+Note that this is for educational purposes only. Don't use any network scanning or password cracking on a network you don't have explicit permission to do this on.
