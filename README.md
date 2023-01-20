@@ -27,7 +27,7 @@ After handshake is obtained, all 3 scripts can be closed.
 - aircrack-ng
 - hashcat
 - a good wordlist (such as rockyou)
-- must have a monitor-mode capable network adapter. I recommend using Alfa's adapters.
+- must have a monitor-mode capable network adapter. I recommend using Alfa's adapters - [AWUS036AC](https://www.alfa.com.tw/products/awus036ac?variant=36473965838408) or [AWUS036ACS](https://www.alfa.com.tw/products/awus036acs?variant=36473965969480).
 
 ## Troubleshooting
 Make sure to install all required drivers for the adapter before attempting this.
